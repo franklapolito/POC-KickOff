@@ -1,0 +1,6 @@
+version: 1
+unique_name: POC_Kick-Off
+object_type: catalog
+label: POC_Kick-Off
+aggressive_agg_promotion: false
+build_speculative_aggs: true

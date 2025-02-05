@@ -1,0 +1,8 @@
+unique_name: HelloAtScale
+object_type: model
+label: HelloAtScale
+dimensions:
+  - Sales_Order_Number
+metrics:
+  - unique_name: m_FACTINTERNETSALES_unitprice_sum
+relationships: []
