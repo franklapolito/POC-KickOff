@@ -1,0 +1,6 @@
+unique_name: XXX
+object_type: metric
+label: Xxx
+calculation_method: sum
+column: 'XXX'
+dataset: ''
